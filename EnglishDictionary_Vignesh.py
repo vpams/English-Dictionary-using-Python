@@ -1,7 +1,3 @@
-The aim of this project is to create an English Dictionary app that returns definitions of English words. When the application is started, it displays a menu as follows:
-
-Main Menu
-
 import os
 import json
 
